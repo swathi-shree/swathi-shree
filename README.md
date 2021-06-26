@@ -26,7 +26,7 @@
 
 <br />
 <br />
-<div>
-  <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=swathi-shree&count_private=true&include_all_commits=true&show_icons=true&theme=tokyonight&hide_border=true" />
-   <img height="170" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=swathi-shree&layout=compact&hide=ShaderLab,HLSL,HTML,TSQL&langs_count=10&theme=tokyonight&hide_border=true" />
-</div>
+
+![Swathi's GitHub stats](https://github-readme-stats.vercel.app/api?username=swathi-shree&count_private=true&theme=tokyonight)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=swathi-shree&layout=compact&theme=tokyonight)](https://github.com/swathi-shree/github-readme-stats)
