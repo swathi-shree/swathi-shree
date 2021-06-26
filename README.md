@@ -6,8 +6,9 @@
 - ⚡ Fun fact: I do yoga and love to play tennis in my free time 
 
 ### Connect with me:
-[<img align="left" alt="swathi-shree| LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="swathi-shree| Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][gmail]
+ [![Linkedin Badge](https://img.shields.io/badge/-swathishree-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/swathishree/)](https://www.linkedin.com/in/swathi-shree/)
+[![Gmail Badge](https://img.shields.io/badge/-sshr441@aucklanduni.ac.nz-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sshr441@aucklanduni.ac.nz)](mailto:sshr441@aucklanduni.ac.nz)
+
 
 <br />
 
@@ -29,8 +30,3 @@
   <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=swathi-shree&count_private=true&include_all_commits=true&show_icons=true&theme=tokyonight&hide_border=true" />
    <img height="170" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=swathi-shree&layout=compact&hide=ShaderLab,HLSL,HTML,TSQL&langs_count=10&theme=tokyonight&hide_border=true" />
 </div>
-
-
-
-[linkedin]: https://www.linkedin.com/in/swathi-shree/
-[gmail]: sshr441@aucklanduni.ac.nz
