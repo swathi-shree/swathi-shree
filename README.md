@@ -1,7 +1,7 @@
 
 ### Hi there, I'm Swathi - a Computer Systems Engineering Student <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-- 🌱 I’m currently learning .Net and C# and working on a personal portfolio 
+- 🌱 I’m currently learning React and working on a personal portfolio 
 - 🥅 2021 Goals: Contribute to open source projects
 - ⚡ Fun fact: I do yoga and love to play tennis in my free time 
 
