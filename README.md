@@ -2,8 +2,8 @@
 ### Hi there, I'm Swathi - a Computer Systems Engineering Student <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 - 🌱 I’m currently learning React and working on a personal portfolio 
-- 🥅 2021 Goals: Contribute to open source projects
-- ⚡ Fun fact: I do yoga and love to play tennis in my free time 
+- 🥅 2022 Goals: Contribute to open source projects
+
 
 ### Connect with me:
  [![Linkedin Badge](https://img.shields.io/badge/-swathishree-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/swathishree/)](https://www.linkedin.com/in/swathi-shree/)
